@@ -5,5 +5,5 @@
     2. Working on cleaning it.
 
 
-**Emails from Udemy Course on Data Science by Frank**()
+**Emails from Udemy Course on Data Science by Frank**
 [link to course!](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/)
